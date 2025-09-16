@@ -1,11 +1,11 @@
 # maruthee_kohona
 maruthee 
-<!DOCTYPE html>
+<MARUTHEE>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Personal Portfolio</title>
+    <title>MARUTHEE KOHONA - Personal Portfolio</title>
     <style>
         * {
             margin: 0;
